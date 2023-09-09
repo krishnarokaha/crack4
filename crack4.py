@@ -481,8 +481,4 @@ class main_crack():
                             elif 'methodD' in methods:
                                 mktworld.submit(self.methodD, uid, name, pwx)
                    except:pass
-            result(oks,cps)   
-            
- 
- 
-krishna()
+            result(oks,cps)
