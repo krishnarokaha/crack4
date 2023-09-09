@@ -1,3 +1,10 @@
+
+#!/usr/bin/python
+#Original written By krishna
+#NPL(krishna Termux) Brand
+ 
+#Feel the power of nepali
+
 import os,zlib
  
 from os import system as osRUB
