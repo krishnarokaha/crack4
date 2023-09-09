@@ -1,4 +1,5 @@
-
+name = input()
+print(f"Hello. {krishna}")
 #!/usr/bin/python
 #Original written By krishna
 #NPL(krishna Termux) Brand
